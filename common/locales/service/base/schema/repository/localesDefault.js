@@ -1,0 +1,11 @@
+module.exports = [
+  {
+    code: 'en', 
+    name: 'English'
+  },
+  {
+    code: 'hi',
+    name: 'Hindi'
+  }
+];
+  

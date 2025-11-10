@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "dataBaseUrl" : "mongodb://localhost:27017",
+    "dataBaseName" : "hrm_nodehomeservice_backend"
+}
